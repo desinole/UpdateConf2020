@@ -73,6 +73,9 @@
     <Content Include="Scripts\Migrations\0003_PopulateHomeCellPhoneColumns.sql">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
+    <Content Include="Scripts\Migrations\0004_DropPhoneColumns.sql">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+    </Content>
     <Content Include="Scripts\PreDeployment\sample.sql">
       <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
     </Content>
