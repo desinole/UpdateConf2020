@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30717.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{151D2E53-A2C4-4D7D-83FE-D05416EBD58E}") = "SQLCloudResource", "SQLCloudResource\SQLCloudResource.deployproj", "{922F9323-F7F4-473F-9157-3FC39E3029DB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{922F9323-F7F4-473F-9157-3FC39E3029DB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{922F9323-F7F4-473F-9157-3FC39E3029DB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{922F9323-F7F4-473F-9157-3FC39E3029DB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{922F9323-F7F4-473F-9157-3FC39E3029DB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AC220532-B2D3-490C-9BFE-E6EBA9402DA3}
+	EndGlobalSection
+EndGlobal
